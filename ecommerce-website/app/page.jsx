@@ -1,3 +1,5 @@
+//p-24 is a utility class in tailwind css which is used to add padding of 6rem to all sides of the element,
+//p-25 doesnt exist in tailwind css thats why when we use p-25 it removes all the existing padding
 import Image from "next/image";
 
 export default function Home() {
