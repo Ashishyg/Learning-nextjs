@@ -19,8 +19,8 @@ const NavBar = () => {
           <Link href="/">
             <button className="text-white hover:bg-gray-700 px-3 py-2 rounded">Home</button>
           </Link>
-          <Link href="/about">
-            <button className="text-white hover:bg-gray-700 px-3 py-2 rounded">About</button>
+          <Link href="/products">
+            <button className="text-white hover:bg-gray-700 px-3 py-2 rounded">Products</button>
           </Link>
           <Link href="/cart">
             <button className="text-white hover:bg-gray-700 px-3 py-2 rounded">Cart</button>
