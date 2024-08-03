@@ -10,7 +10,7 @@ const page = () => {
       <p className='text-sm text-white p-4 m-2 bg-gradient-to-r from-purple-400 via-pink-500 to-red-500 rounded-lg shadow-md'>I have understood everything learnt so far this week, no complaints at all</p>
       </div>
       <Button/>
-    |</>
+    </>
   )
 }
 
